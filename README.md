@@ -1,8 +1,8 @@
 # Mail-Scheduler
 
--------------------------
+--------------------------
 This project helps a user to send a mail on scheduled time(It can be a particular date also). 
--------------------------
+--------------------------
 #Instructions To Use Mail-Scheduler :
 
 1.Download or clone the repository in your local pc.
@@ -16,8 +16,8 @@ This project helps a user to send a mail on scheduled time(It can be a particula
 9.For timing section refer step 2 at "https://www.digitalocean.com/community/tutorials/nodejs-cron-jobs-by-examples#conclusion".
 10.Submit the form and keep the server on till the mail is sent.
 
-------------------------
-------------------------
+-------------------------
+-------------------------
 (This project is created as a part of learning web-dev) 
 
 Some key features of this project are : 
