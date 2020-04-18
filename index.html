@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        
+        <div class="row">
+            <div class="col-xs-3">
+            </div>
+
+            <div class="col-xs-6 well" id="rem">
+            <h1 class="text-center">Schedule your mail</h1>
+
+            <form method="POST" action="/job">
+                <label>Enter your Subject</label>
+                <br>
+                <textarea class="form-control" rows="2" name="sub"></textarea>
+                <br> <br>
+
+                <div class="from-group">
+                <label>Enter your Message</label>
+                <br>
+                <textarea class="form-control" rows="5" name="text"></textarea>
+                <br> <br>
+                </div>
+
+                <label>Enter the receiver's mail id</label>
+                <br>
+                <input type="text" placeholder="type receiver's mail id here" name="receiver" class="form-control"></input>
+                <br> <br>
+
+                
+                <label>timing : </label>
+                
+                <div class="from-group">
+                <input type="text" name="a" class="col-xs-1">
+                <input type="text" name="b" class="col-xs-1">
+                <input type="text" name="c" class="col-xs-1">
+                <input type="text" name="d" class="col-xs-1">
+                <input type="text" name="e" class="col-xs-1">
+                <input type="text" name="f" class="col-xs-1">
+                </div>
+                <br><br><br><br><br>
+
+                <div class="text-center">
+                <input type="submit" class="btn btn-default btn-lg" id="butt">
+                </div>
+
+                <p id="message"></p>
+                <br><br>
+            </form>
+            </div>
+
+            <div class="col-xs-3">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
