@@ -1,11 +1,9 @@
 # Mail-Scheduler
 
 # About 
-Markup :  - - - -
 This project helps a user to send a mail on scheduled time(It can be a particular date also).
 
 # Getting started 
-Markup :  - - - -
 
 1.Download or clone the repository in your local pc. <br />
 2.Install node.js in your computer.<br />
@@ -19,9 +17,7 @@ Markup :  - - - -
 10.Submit the form and keep the server on till the mail is sent. <br />
 
 # Built with
-Markup :  - - - -
-Markup : 
-         *html
+Markup : *html
          *javascript
          *bootstrap 3
          *node.js
