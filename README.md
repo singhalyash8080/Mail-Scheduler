@@ -16,7 +16,7 @@ This project helps a user to send a mail on scheduled time(It can be a particula
 10.Submit the form and keep the server on till the mail is sent. <br />
 
 # Built with
-*html
-*javascript
-*bootstrap 3
-*node.js
+* html
+* javascript
+* bootstrap 3
+* node.js
