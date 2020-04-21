@@ -5,7 +5,7 @@ This project helps a user to send a mail on scheduled time(It can be a particula
 --------------------------
 #Instructions To Use Mail-Scheduler :
 
-1.Download or clone the repository in your local pc.
+1.Download or clone the repository in your local pc.<br />
 2.Install node.js in your computer.
 3.Install npm - express,node-cron,body-Parser and nodemailer packages in your app.
 4.Add environment variables such as user(username) and pass(password) in a .env file.
