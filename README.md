@@ -1,7 +1,6 @@
-# Mail-Scheduler
 
 # About 
-This project helps a user to send a mail on scheduled time(It can be a particular date also).
+This project helps a user to send a mail on scheduled time(It can be a particular date also).This project was made as a part of learning web-dev.
 
 # Getting started 
 
@@ -17,7 +16,7 @@ This project helps a user to send a mail on scheduled time(It can be a particula
 10.Submit the form and keep the server on till the mail is sent. <br />
 
 # Built with
-Markup : *html
-         *javascript
-         *bootstrap 3
-         *node.js
+*html
+*javascript
+*bootstrap 3
+*node.js
